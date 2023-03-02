@@ -35,4 +35,6 @@ class Booking(webdriver.Chrome):
         
         currency_element.click()
 
+        tester
+
         
